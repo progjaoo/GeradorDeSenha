@@ -5,7 +5,7 @@
 ## Instruções:
 + Use o slider para rolar e escolher a quantidade de caractéres da senha
 + Clique no botão gerar
-+ Passa o mouse por cima da Senha gera, clique e será copiada para área de transferência pronto para uso
++ Passa o mouse por cima da senha gerada, clique e será copiada para área de transferência pronto para uso
 
 ## Técnologias usadas
 
